@@ -1,11 +1,12 @@
-# Data601-Capital_Bikeshare
+# Data601-Capital_Bikeshare \
 
-**Project Title:** Weather or Time? Understanding What Drives Capital Bikeshare Usage
-**Project Author:** Thanusha Balasubramanian
-**Course:** Data 601 - Fall 2025
-**Project Overview:**
-This project seeks to answer the following question: Which variables have the greatest impact on hourly Capital Bikeshare usage? We wish to find the top 5 features with greatest magnitude of positive or negative impact on hourly bikeshare usage.
-To answer the guiding question, an EDA was performed using python pandas, and seasborn. After the EDA both a linear regression model and a decision tree classfication model were ran to identify the most important features impacting capital bike share usage. 
+**Project Title:** Weather or Time? Understanding What Drives Capital Bikeshare Usage \
+**Project Author:** Thanusha Balasubramanian \
+**Course:** Data 601 - Fall 2025 \
+**Project Overview:** \
+This project seeks to answer the following question: Which variables have the greatest impact on hourly Capital Bikeshare usage? We wish to find the top 5 features with greatest magnitude of positive or negative impact on hourly bikeshare usage. \
+
+To answer the guiding question, an EDA was performed using python pandas, and seasborn. After the EDA both a linear regression model and a decision tree classfication model were ran to identify the most important features impacting capital bike share usage. \
 
 **File Breakdown**
 **hour.csv** - The dataset analyzed in this project. It contains hourly usage data from the capital bikshare system in Washington DC. 
