@@ -9,8 +9,8 @@ This project seeks to answer the following question: Which variables have the gr
 To answer the guiding question, an EDA was performed using python pandas, and seasborn. After the EDA both a linear regression model and a decision tree classfication model were ran to identify the most important features impacting capital bike share usage. 
 
 **File Breakdown**
-**hour.csv** - The dataset analyzed in this project. It contains hourly usage data from the capital bikshare system in Washington DC. 
-**V1_Thanusha_Bala_Data601_Project_Phase_3.ipynb** - The review
+ 1. **hour.csv** - The dataset analyzed in this project. It contains hourly usage data from the capital bikshare system in Washington DC. 
+ 2. **V1_Thanusha_Bala_Data601_Project_Phase_3.ipynb** - The review
 
 
 **Data Citation:** 
